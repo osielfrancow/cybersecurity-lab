@@ -23,3 +23,7 @@ Output: readme
 Read the file to obtain the Level 1 password:
 cat readme
 Output: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+## 📸 Evidence
+![Bandit Level 0 to 1 Screenshot](Level%200%20Bandit%20.png)
+
