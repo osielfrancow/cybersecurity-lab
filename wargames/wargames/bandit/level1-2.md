@@ -30,6 +30,4 @@ cat ./-
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 ## 📸 Evidence
-![Bandit Level 1 → 2](./level1-2.png)
-![Bandit Level 0 → 1](./level1-2.png)
 
