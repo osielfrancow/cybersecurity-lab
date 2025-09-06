@@ -1,25 +1,23 @@
 # 🏴‍☠️ Bandit Level 1 → Level 2
 
-```bash
-# Objective:
-# Connect as bandit1 and read the file named "-" to get the Level 2 password.
+## 🎯 Objective
+Connect to the **OverTheWire Bandit** server as `bandit1` and retrieve the password for Level 2.
 
-# Credentials
-# user: bandit1
-# host: bandit.labs.overthewire.org
-# port: 2220
-# pass: (from previous level)
+## 🔑 Credentials
+- **Username:** bandit1  
+- **Host:** bandit.labs.overthewire.org  
+- **Port:** 2220  
+- **Password:** (from previous level)
 
-# 1) Connect
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+## 🔧 Steps Taken
 
-# 2) List files
+1. **Connect to the server**
+   ```bash
+   ssh bandit1@bandit.labs.overthewire.org -p 2220
+2.**List files**
 ls
-# Expected output:
-# -
-
-# 3) Read the file named "-" (use ./ so "-" isn't treated as an option)
+3.**Read the file named -**
+Use ./- so the - isn’t treated as an option.
 cat ./-
-
-# Output → Password for Level 2:
-# 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+# Output → Password for Level 2: 
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
