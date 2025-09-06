@@ -12,6 +12,8 @@ Connect to the **OverTheWire Bandit server** via SSH and retrieve the password f
 - **Password:** (from previous level)
 
 ---
+## 📸 Evidence
+![Bandit Level 1 → 2](./wargames/wargames/bandit/level1-2.png)
 
 ## 🔧 Steps Taken
 ```bash
@@ -29,7 +31,8 @@ cat ./-
 # Output → Password for Level 2:
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-## 📸 Evidence
-![Bandit Level 1 → 2](./wargames/wargames/bandit/level1-2.png)
+
+
+
 
 
