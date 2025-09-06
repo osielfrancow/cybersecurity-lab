@@ -31,4 +31,5 @@ cat ./-
 
 ## 📸 Evidence
 ![Bandit Level 1 → 2](./level1-2.png)
+![Bandit Level 0 → 1](./level1-2.png)
 
