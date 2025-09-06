@@ -25,5 +25,4 @@ cat readme
 Output: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## 📸 Evidence
-![Bandit Level 0 to 1 Screenshot](Level%200%20Bandit%20.png)
-
+![Bandit Level 0 → 1](./wargames/bandit/level0-1.png)
