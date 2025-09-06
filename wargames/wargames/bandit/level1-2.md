@@ -29,6 +29,7 @@ cat ./-
 # Output → Password for Level 2:
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-## Evidence
-![Bandit Level 1 → 2](./wargames/bandit/Level%201%20to%202%20Bandit.png)
+## 📸 Evidence
+![Bandit Level 1 → 2](./level1-2.png)
+
 
