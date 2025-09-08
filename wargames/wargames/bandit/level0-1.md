@@ -25,5 +25,5 @@ cat readme
 Output: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## 📸 Evidence
-![Bandit Level 0 → 1](./level0-1.png)
+![screenshot](./screenshots/level0-1.png)
 
