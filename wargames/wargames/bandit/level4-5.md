@@ -32,4 +32,4 @@ Output shows multiple files:
 5. **Read the file that contains ASCII text:**
    cat ./-file07
 ## 📸Evidence
-
+![screenshot](./screenshots/level4-5.png)
